@@ -18,6 +18,12 @@ courses = [
     "direction": "yokohama"
 },
 {
+    "courseId": "0001601061",
+    "route": "39系統",
+    "destination": "小机駅前経由 東神奈川駅西口行",
+    "direction": "kanagawa"
+},
+{
     "courseId": "0001600593",
     "route": "39系統",
     "destination": "小机駅前経由 緑車庫前行",
@@ -46,6 +52,12 @@ courses = [
 {
     "courseId": "0001600635",
     "route": "39系統",
+    "destination": "小机駅前経由 中山駅前行",
+    "direction": "up"
+},
+{
+    "courseId": "0001600799",
+    "route": "373系統深夜バス",
     "destination": "小机駅前経由 中山駅前行",
     "direction": "up"
 },
