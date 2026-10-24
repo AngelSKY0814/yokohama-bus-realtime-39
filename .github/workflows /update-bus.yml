@@ -1,4 +1,4 @@
-name: バス情報自動更新
+name: 39系統バス情報自動更新
 
 on:
   schedule:
